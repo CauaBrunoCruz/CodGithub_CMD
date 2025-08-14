@@ -3,8 +3,9 @@ Codigos de Github e Git para CMD
 
 📌 Configuração inicial (apenas na primeira vez)
 
-(git config --global user.name "Seu Nome"
+(git config --global user.name "Seu Nome";
 git config --global user.email "seuemail@example.com")
+
 Define seu nome e e-mail para os commits.
 
 📌 Criar ou clonar repositório
